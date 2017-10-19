@@ -1,0 +1,16 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "drutiny/drutiny": "2.x-dev",
+    "drutiny/acquia": "2.x-dev",
+    "drutiny/plugin-drupal-7": "2.x-dev",
+    "drutiny/plugin-drupal-8": "2.x-dev",
+    "drutiny/plugin-distro-common": "2.x-dev"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
+  }
+}
