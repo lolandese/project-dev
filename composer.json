@@ -1,4 +1,7 @@
 {
+  "name": "drutiny/drutiny",
+  "type": "project",
+  "description": "Project template for Drutiny development",
   "minimum-stability": "dev",
   "require": {
     "drutiny/drutiny": "2.x-dev",
