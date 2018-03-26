@@ -4,11 +4,14 @@
   "description": "Project template for Drutiny development",
   "minimum-stability": "dev",
   "require": {
-    "drutiny/drutiny": "2.x-dev",
+    "drutiny/drutiny": "2.0.*@dev",
     "drutiny/acquia": "2.x-dev",
     "drutiny/plugin-drupal-7": "2.x-dev",
     "drutiny/plugin-drupal-8": "2.x-dev",
-    "drutiny/plugin-distro-common": "2.x-dev"
+    "drutiny/plugin-distro-common": "2.x-dev",
+    "drutiny/sumologic": "2.x-dev",
+    "drutiny/http": "2.x-dev",
+    "drutiny/cloudflare": "2.x-dev"
   },
   "config": {
     "bin-dir": "bin"
