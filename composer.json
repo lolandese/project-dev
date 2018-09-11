@@ -1,4 +1,8 @@
 {
+  "repositories": [{
+    "type": "composer",
+    "url": "https://github.com/lolandese/"
+  }],
   "name": "lolandese/project-dev",
   "type": "project",
   "description": "Project template for Drutiny development",
