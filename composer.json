@@ -6,7 +6,6 @@
   "name": "lolandese/project-dev",
   "type": "project",
   "description": "Project template for Drutiny development",
-  "minimum-stability": "dev",
   "require": {
     "drutiny/drutiny": "2.3.*@dev",
     "drutiny/acquia": "2.x-dev",
